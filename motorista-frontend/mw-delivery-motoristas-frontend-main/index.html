@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Motoristas</title>
+    <link rel="stylesheet" href="css/estilos.css">
+    <script src="js/controlador.js"></script>
+  
+    <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js" integrity="sha384-SlE991lGASHoBfWbelyBPLsUlwY1GwNDJo3jSJO04KZ33K2bwfV9YBauFfnzvynJ" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
+
+
+    <!-- Archivos de scripts de Bootstrap-->
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+   <script src="https://kit.fontawesome.com/6f0a417da2.js" crossorigin="anonymous"></script>
+</head>
+<body onload="mostrarSeccion(0)">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofN4zfuZxLkoj1gXtW8ANNCe9d5Y3eG5eD" crossorigin="anonymous"></script>
+
+
+
+
+    <section id="0" name="landing-motoristas" class="landing-motoristas">
+      
+      <div class="contenedor-lpMotorista">
+        <div class="banner" style="color:BLACK;">
+            <img id="logo" src="img/logo_MW2.png" alt="logo MW FashionDelivery">
+            <h2 style="margin: 0%">MW Fashion Delivery</h2>
+            <h4>Entregas</h4>
+        </div>
+        <div class="form-acceso">
+            <h2 style="text-align:center" style="color:#17382B;">¡Manos a la obra!</h2>
+            <form>
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Correo electrónico</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="hectorsauceda@gmail.com">
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">Contraseña</label>
+                    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="* * * * * * * *">
+                </div>
+                <div class="contenedor">
+                <button type="button" class="btn-acceso" class="btn btn-primary" onclick="mostrarSeccion(2)">Ingresar</button>
+                <br>
+                <p style="margin: 0%">¿Quieres formar parte de nuestro equipo?</p>
+                <b onclick="mostrarSeccion(1)">Trabaja con nosotros</b>
+                </div>
+            </form>
+        </div>
+    </div>
+        <input type="button" value="Ingresar" onclick="mostrarSeccion(1)">
+    </section>
+ 
+
+    <section id="1" name="formulario-registro">
+        <div>
+        <nav id="encabezado-registro" class="encabezado">
+            <h3>Ingrese sus datos para poder contactarle:</h3>
+        </nav>
+
+        <form class="text-r form-acceso">
+            <h2>Registro de Motorista</h2>
+            <div class="form-group">
+              <label for="nombre">Nombre completo:</label>
+              <input type="text" id="nombre" name="nombre" required>
+            </div>
+            <div class="form-group">
+            <label for="dni">DNI:</label>
+            <input type="text" id="dni" name="dni">
+            </div>
+            <div class="form-group">
+              <label for="telefono">Teléfono:</label>
+              <input type="tel" id="telefono" name="telefono" required>
+            </div>
+            <div class="form-group">
+              <label for="correo">Correo electrónico:</label>
+              <input type="email" id="correo" name="correo" required>
+            </div>
+            <div class="form-group">
+              <label for="direccion">Dirección:</label>
+              <textarea id="direccion" name="direccion" required></textarea>
+            </div>
+            <div class="form-group">
+              <label for="ciudad">Ciudad:</label>
+              <input type="text" id="ciudad" name="ciudad" required>
+            </div>
+            <div class="form-group">
+              <label for="licencia">Licencia de conducir:</label>
+              <input type="text" id="licencia" name="licencia" required>
+            </div>
+            <div class="form-group">
+              <label for="placa">Placa del vehículo:</label>
+              <input type="text" id="placa" name="placa" required>
+            </div>
+            <label for="experiencia">Experiencia previa:</label>
+            <select id="experiencia" name="experiencia">
+              <option value="si">Sí</option>
+              <option value="no">No</option>
+            </select>
+            <label for="disponibilidad">Disponibilidad:</label>
+            <select id="disponibilidad" name="disponibilidad">
+              <option value="completa">Tiempo completo</option>
+              <option value="parcial">Tiempo parcial</option>
+            </select><br>
+            <button onclick="mostrarSeccion(2)" type="submit">Enviar registro</button>
+          </form>
+          </div>
+
+    </section>
+    
+     <section id="2" name="dashboard-motoristas">
+    
+      <nav id="encabezado-registro" class="encabezado">
+        <h2>¡Bienvenido!</h2>
+      </nav>
+      <div class="container">
+        <div class="button" id="entregas-disponibles" onclick="mostrarSeccion(3)">
+          <img id="imagen-entregas-disponibles" src="img/logo-entregas-disponibles.png" alt=""><br>
+          <h3>Entregas Disponibles</h3>
+        </div>
+        <div class="button" id="entregas-pendientes" onclick="mostrarSeccion(4)">
+          <img id="imagen-entregas-pendientes" src="img/logo-entregas-pendientes.png" alt="">
+          <h3>Entregas Pendientes</h3>
+        </div>
+      </div>
+
+        </section>
+
+
+
+    <section id="3" name="dashboard-entregas-disponibles" >
+    
+      <nav id="encabezado-registro" class="encabezado">
+        <div id="boton-atras" onclick="mostrarSeccion(2)" style="font-size:30px; margin-right:10px;"><i class="fas fa-arrow-circle-left"></i></div>
+
+        <div id="texto-encabezado" class="texto-encabezado"><h2>Entregas Disponibles</h2></div>
+      </nav>
+
+      <div id="cuerpo-dashboard-disponibles" style="margin:1rem; color:#17382B">
+        <!--Aqui se insertaran dinamicamente las ordenes disponibles-->
+    
+      </div>
+
+      <script>renderizarEntregasDisponibles()</script>
+       
+    </section>
+
+    <section id="4" name="dashboard-entregas-pendientes">
+    
+      <nav id="encabezado-registro" class="encabezado">
+        <div id="boton-atras" onclick="mostrarSeccion(2)" style="font-size:30px; margin-right:10px;"><i class="fas fa-arrow-circle-left"></i></div>
+
+        <div id="texto-encabezado" class="texto-encabezado"><h2>Entregas Pendientes</h2></div>
+      </nav>
+
+      <div id="cuerpo-dashboard-pendientes" style="margin:1rem; color:#17382B">
+        <!--Aqui se insertaran dinamicamente las ordenes pendientes-->
+    
+      </div>
+
+      <script>renderizarEntregasPendientes()</script>
+    </section>  
+
+
+    <section id="5" name="detalle-entrega-disponible">
+
+      <nav id="encabezado-entrega-disponible" class="encabezado">
+        <div id="boton-atras" onclick="mostrarSeccion(3)" style="font-size:30px; margin-right:10px;"><i class="fas fa-arrow-circle-left"></i></div>
+
+        <div id="texto-encabezado" class="texto-encabezado"><h2>Detalle Entrega</h2></div>
+      </nav>
+
+      <div id="cuerpo-detalle-entrega" class="form-control">
+
+          <div class="etiquetado-detalles" id="etiqueta-direccion">
+      
+          <div class="elemento">
+            <p>Direccion:</p>
+          </div>
+          <div id="info-direccion">
+              <p>Colonia Lavanda 13 metros adelante de parque Centenario, Calle Cornelia</p>
+          </div> 
+
+          </div>
+
+          <div class="etiquetado-detalles" id="etiqueta-ciudad">
+          <div class="elemento">
+            <p>Ciudad:</p>
+          </div>
+          <div id="info-ciudad">
+              <p>Nueva York</p>
+          </div>  
+          </div>
+
+          <div class="etiquetado-detalles" id="etiqueta-nombre">
+          <div class="elemento">
+            <p>Nombre:</p>
+          </div>
+          <div id="info-nombre">
+              <p>Taylor Alison Swift</p>
+          </div>
+          </div>  
+
+          
+          <div class="etiquetado-detalles" id="etiqueta-telefono">
+          <div class="elemento">
+            <p>Telefono:</p>
+          </div>
+          <div id="info-telefono"> 
+            <p>13131313</p>
+          </div>  
+          </div>
+
+          <div class="etiquetado-detalles" id="etiqueta-tienda">
+          <div class="elemento" >
+              <p>Tienda:</p>
+          </div>
+          <div id="info-tienda">
+            <p>STRADIVARIUS</p>
+          </div>  
+          </div>
+       
+
+<div id="detalle-items">
+  <p style="font-weight: bold;">Detalle Items</p>
+<div id="cuerpo-detalle-items">
+  <div id="encabezado-detalle-items" class="descripcion-items" style="font-weight: bold;">
+    <p>CANT</p>
+    <p>DESCRIPCION</p>
+    <p>P. UNIT</p>
+    <p>P. TOTAL</p>
+  </div>
+
+  <div id="informacion-items">
+
+    <!--Se insertara dinamicamente-->
+    <!--
+    <div id="contenedor-productos" class="descripcion-items">
+    <p id="cantidad">3</p>
+    <p id="descripcion">PRODUCTO</p>
+    <p id="precio-unitario">1989</p>
+    <p id="precio-total">1989</p>
+    </div>-->
+
+   
+
+
+  </div>
+</div>
+<div></div>
+   
+</div>
+
+<div class="etiquetado-detalles" id="total">
+  <div class="elemento">
+    <p>Total:</p>
+  </div>
+  <div id="info-total">
+    <p>1989</p>
+  </div> 
+</div>
+
+<div class="etiquetado-detalles" id="fecha"> 
+  <div class="elemento">
+    <p>Fecha:</p>
+  </div>
+<div id="info-fecha">
+  <p>31/03/23</p>
+</div>
+</div>
+
+<div id="boton" style="display:flex; justify-content:center;">
+  <button type="button" class="btn-acceso" data-toggle="modal" data-target="#exampleModal" onclick="tomarOrden()">
+    Tomar orden
+  </button>
+</div>
+
+<!-- Button trigger modal -->
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Orden tomada exitosamente</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+    
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="mostrarSeccion(3)">Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+</div>
+    </div>          
+    </section>
+
+<section id="6" name="detalle-entrega-pendiente">
+      <nav id="encabezado-entrega-pendiente" class="encabezado">
+        <div id="boton-atras" onclick="mostrarSeccion(4)" style="font-size:30px; margin-right:10px;"><i class="fas fa-arrow-circle-left"></i></div>
+
+        <div id="texto-encabezado" class="texto-encabezado"><h2>Detalle Entrega Pendiente</h2></div>
+      </nav>
+
+      <div id="cuerpo-detalle-entrega" class="form-control">
+
+          <div class="etiquetado-detalles" id="etiqueta-direccion">
+      
+          <div class="elemento">
+            <p>Direccion:</p>
+          </div>
+          <div id="info-direccion-pendiente">
+              <p>Colonia Lavanda 13 metros adelante de parque Centenario, Calle Cornelia</p>
+          </div> 
+
+          </div>
+
+          <div class="etiquetado-detalles" id="etiqueta-ciudad">
+          <div class="elemento">
+            <p>Ciudad:</p>
+          </div>
+          <div id="info-ciudad-pendiente">
+              <p>Nueva York</p>
+          </div>  
+          </div>
+
+          <div class="etiquetado-detalles" id="etiqueta-nombre">
+          <div class="elemento">
+            <p>Nombre:</p>
+          </div>
+          <div id="info-nombre-pendiente">
+              <p>Taylor Alison Swift</p>
+          </div>
+          </div>  
+
+          
+          <div class="etiquetado-detalles" id="etiqueta-telefono">
+          <div class="elemento">
+            <p>Telefono:</p>
+          </div>
+          <div id="info-telefono-pendiente"> 
+            <p>13131313</p>
+          </div>  
+          </div>
+
+          <div class="etiquetado-detalles" id="etiqueta-tienda">
+          <div class="elemento" >
+              <p>Tienda:</p>
+          </div>
+          <div id="info-tienda-pendiente">
+            <p>STRADIVARIUS</p>
+          </div>  
+          </div>
+       
+
+<div id="detalle-items-pendientes">
+  <p style="font-weight: bold;">Detalle Items</p>
+<div id="cuerpo-detalle-items-pendientes">
+  <div id="encabezado-detalle-items-pendientes" class="descripcion-items" style="font-weight: bold;">
+    <p>CANT</p>
+    <p>DESCRIPCION</p>
+    <p>P. UNIT</p>
+    <p>P. TOTAL</p>
+  </div>
+
+  <div id="informacion-items-pendientes">
+
+    <!--Se insertara dinamicamente-->
+    <!--
+    <div id="contenedor-productos" class="descripcion-items-pendientes">
+    <p id="cantidad">3</p>
+    <p id="descripcion">PRODUCTO</p>
+    <p id="precio-unitario">1989</p>
+    <p id="precio-total">1989</p>
+    </div>-->
+
+   
+
+
+  </div>
+
+</div>
+<div></div>
+   
+</div>
+
+<div class="etiquetado-detalles" id="total">
+  <div class="elemento">
+    <p>Total:</p>
+  </div>
+  <div id="info-total-pendiente">
+    <p>1989</p>
+  </div> 
+</div>
+
+<div class="etiquetado-detalles" id="fecha"> 
+  <div class="elemento">
+    <p>Fecha:</p>
+  </div>
+<div id="info-fecha-pendiente">
+  <p>31/03/23</p>
+</div>
+
+</div>
+</div>
+</div>    
+<div class="order-status">
+  <h2>Estado de la orden:</h2>
+  <div id="botones de estado" class="button-container">
+    <button class="taken">Orden tomada</button>
+    <button class="on-the-way">Orden en camino</button>
+    <button class="delivered">Orden en destino</button>
+  </div>
+</div>
+
+    </section>
+
+
+  <section id="7" name="detalles-usuario">
+    <nav id="encabezado-usuario" class="encabezado">
+      <h3>Detalles de Usuario:</h3>
+  </nav>
+
+    <div id="user-details" class="form-acceso" style="margin: 1.5rem;">
+ 
+      <div class="profile-info">
+        <div><i class="fas fa-user fa-2x" style="font-size: 7rem;"></i>
+        </div>
+        <h2>Nombre del motorista</h2>
+        <ul>
+          <li><strong>Correo electrónico:</strong> motorista@correo.com</li>
+          <li><strong>Teléfono:</strong> 123-456-7890</li>
+          <li><strong>Domicilio:</strong> Calle 123, Ciudad, Estado, Código postal</li>
+          <li><strong>Calificación promedio:</strong> 4.5 estrellas</li>
+          <li><strong>Comentarios de clientes anteriores:</strong> "El motorista fue muy amable y entregó la ropa en perfecto estado."</li>
+        </ul>
+      </div>
+      <h3>Historial de entregas</h3>
+      <div id="historial-entregas" class="delivery-history">
+        
+        <div class="columnas-historial" style="font-weight: bold;">
+          <div class="delivery-column">Fecha de entrega</div>
+          <div class="delivery-column">Dirección de entrega</div>
+          <div class="delivery-column">Nombre del destinatario</div>
+          <div class="delivery-column">Número de seguimiento</div>
+          <div class="delivery-column">Forma de pago</div>
+          <div class="delivery-column">Calificación del cliente</div>
+        </div>
+        <div class="columnas-historial">
+          <div class="delivery-column">01/01/2023</div>
+          <div class="delivery-column">Calle 456, Ciudad, Estado, Código postal</div>
+          <div class="delivery-column">Juan Pérez</div>
+          <div class="delivery-column">123456789</div>
+          <div class="delivery-column">Tarjeta de crédito</div>
+          <div class="delivery-column">5 estrellas</div>
+        </div>
+        <div class="columnas-historial">
+          <div class="delivery-column">02/01/2023</div>
+          <div class="delivery-column">Calle 789, Ciudad, Estado, Código postal</div>
+          <div class="delivery-column">María González</div>
+          <div class="delivery-column">987654321</div>
+          <div class="delivery-column">Efectivo</div>
+          <div class="delivery-column">4 estrellas</div>
+        </div>
+      </div>
+      
+      <div class="notification-settings">
+        <h3>Configuración de notificaciones</h3>
+        <form>
+          <div class="notification-input">
+            <label for="frequency">Frecuencia de notificaciones:</label>
+            <select id="frequency" name="frequency">
+              <option value="daily">Diario</option>
+              <option value="weekly">Semanal</option>
+              <option value="monthly">Mensual</option>
+            </select>
+          </div>
+          <div class="notification-input">
+            <label for="method">Método de notificación:</label>
+            <div class="notification-radio">
+              <input type="radio" id="email" name="method" value="email" checked>
+              <label for="email">Correo electrónico</label>
+            </div>
+            <div class="notification-radio">
+              <input type="radio" id="sms" name="method" value="sms">
+              <label for="sms">SMS</label>
+            </div>
+          </div>
+          <div class="notification-input">
+            <label for="notifications">Notificaciones:</label>
+            <div class="notification-checkbox">
+              <input type="checkbox" id="new-deliveries" name="notifications" value="new-deliveries" checked>
+              <label for="new-deliveries">Nuevas entregas</label>
+            </div>
+            <div class="notification-checkbox">
+              <input type="checkbox" id="delivery-updates" name="notifications" value="delivery-updates" checked>
+              <label for="delivery-updates">Actualizaciones de entregas</label>
+            </div>
+            <div class="notification-checkbox">
+              <input type="checkbox" id="payment-updates" name="notifications" value="payment-updates">
+              <label for="payment-updates">Actualizaciones de pagos</label>
+            </div>
+          </div>
+          <button type="submit">Guardar cambios</button>
+          <button type="submit">Cerrar Sesion</button>
+        </form>
+        </div>
+      </div>        
+    
+      
+  
+  </section>
+
+
+<div id="barra-navegacion">
+      <ul id="elementos-nav" class="nav justify-content-center fixed-bottom texto-verde">
+        <li class="nav-item" onclick="mostrarSeccion(2)">
+          <a id="boton-dashboard" class="nav-link active" href="#">
+            <i class="fas fa-home"></i>
+          </a>
+        </li>
+        <li  class="nav-item" onclick="mostrarSeccion(3)">
+          <a id="boton-ordenes-disponibles" class="nav-link" href="#">
+            <i class="fas fa-shopping-basket"></i>
+          </a>
+        </li>
+        <li class="nav-item" onclick="mostrarSeccion(4)">
+          <a id="boton-ordenes-pendientes" class="nav-link" href="#">
+            <i class="fas fa-clock"></i>
+          </a>
+        </li>
+        <li class="nav-item" onclick="mostrarSeccion(7)">
+          <a id="boton-usuario" class="nav-link" href="#">
+            <i class="fas fa-user"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,194 @@
+[
+    {
+        "codProducto": "bfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm7.jpg",
+        "nombreProducto": "Jeans short",
+        "precio": 400
+    },
+    {
+        "codProducto": "bfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm11.jpg",
+        "nombreProducto": "Jeans vaqueros",
+        "precio": 800
+    },
+    {
+        "codProducto": "bfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm5.jpg",
+        "nombreProducto": "Vestido escote V",
+        "precio": 960
+    },
+    {
+        "codProducto": "bfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm4.jpg",
+        "nombreProducto": "Camiseta The Cosmos",
+        "precio": 290
+    },
+    {
+        "codProducto": "bfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm7.jpg",
+        "nombreProducto": "Mocasines",
+        "precio": 700
+    },
+    {
+        "codProducto": "bfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm5.jpg",
+        "nombreProducto": "Sandalias fashion",
+        "precio": 900
+    },
+    {
+        "codProducto": "bfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm4.jpg",
+        "nombreProducto": "Tenis deportivos",
+        "precio": 680
+    },    
+    {
+        "codProducto": "bfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm3.jpg",
+        "nombreProducto": "Alpargatas de verano",
+        "precio": 540
+    },
+    {
+        "codProducto": "bfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am7.jpg",
+        "nombreProducto": "Bolso de tela",
+        "precio": 440
+    },
+    {
+        "codProducto": "bfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am4.jpg",
+        "nombreProducto": "Gorro Beanie",
+        "precio": 290
+    },
+    {
+        "codProducto": "bfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am1.jpg",
+        "nombreProducto": "Collar de espiral",
+        "precio": 230
+    },
+    {
+        "codProducto": "bfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am2.jpg",
+        "nombreProducto": "Letes rectangulares",
+        "precio": 440
+    },
+    {
+        "codProducto": "bmr",
+        "genero": "M",
+        "categoria": "ropa",
+        "imagen": "rh2.jpg",
+        "nombreProducto": "Camisa casual",
+        "precio": 560
+    },
+    {
+        "codProducto": "bmr",
+        "genero": "M",
+        "categoria": "ropa",
+        "imagen": "rh5.jpg",
+        "nombreProducto": "Pantalones capri",
+        "precio": 890
+    },
+    {
+        "codProducto": "bmr",
+        "genero": "M",
+        "categoria": "ropa",
+        "imagen": "rh6.jpg",
+        "nombreProducto": "Pantalones loose",
+        "precio": 780
+    },
+    {
+        "codProducto": "bmr",
+        "genero": "M",
+        "categoria": "ropa",
+        "imagen": "rh1.jpg",
+        "nombreProducto": "Playera",
+        "precio": 500
+    },
+    {
+        "codProducto": "bmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh1.jpg",
+        "nombreProducto": "Zapatillas stansmith",
+        "precio": 1200
+    },
+    {
+        "codProducto": "bmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh8.jpg",
+        "nombreProducto": "Sandalias de correa",
+        "precio": 400
+    },
+    {
+        "codProducto": "bmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh1.jpg",
+        "nombreProducto": "Tenis deportivos",
+        "precio": 1180
+    },
+    {
+        "codProducto": "bmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh5.jpg",
+        "nombreProducto": "Mocasines",
+        "precio": 990
+    },
+    {
+        "codProducto": "bma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah8.jpg",
+        "nombreProducto": "Calcetines altos",
+        "precio": 400
+    },
+    {
+        "codProducto": "bma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah1.jpg",
+        "nombreProducto": "Anillos de plata",
+        "precio": 500
+    },
+    {
+        "codProducto": "bma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah4.jpg",
+        "nombreProducto": "Gorra vintage",
+        "precio": 360
+    },
+    {
+        "codProducto": "bma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah3.jpg",
+        "nombreProducto": "Brazaletes cruz",
+        "precio": 240
+    }
+]

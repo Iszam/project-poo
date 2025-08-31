@@ -1,0 +1,24 @@
+[
+    {
+        "correo": "marialopez@gmail.com",
+        "contraseña": "1234ASas", 
+        "nombre": "Maria",
+        "apellido": "Lopez"
+
+    },
+   
+    {
+        "correo": "joseflores@gmail.com",
+        "contraseña": "5678ASas", 
+        "nombre": "Jose",
+        "apellido": "Flores"
+
+    },
+    {
+        "correo": "andreasuazo@gmail.com",
+        "contraseña": "91011ASas", 
+        "nombre": "Andrea",
+        "apellido": "Suazo"
+
+    }
+]

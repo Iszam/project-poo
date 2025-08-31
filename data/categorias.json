@@ -1,0 +1,78 @@
+[
+    {
+        "codTienda": "pb",
+        "categorias": [
+            {
+                "genero": "femenino",
+                "portada": "portadaM-pb.jpg",
+                "ropa": "ropaM-pb.jpg",
+                "zapatos": "zapatosM-pb.jpg",
+                "accesorios": "accesoriosM-pb.jpg"
+            },
+            {
+                "genero": "masculino",
+                "portada": "portadaH-pb.webp",
+                "ropa": "ropaH-pb.jpg",
+                "zapatos": "zapatosH-pb.jpg",
+                "accesorios": "accesoriosH-pb.jpg"
+            }
+        ]
+    },
+    {
+        "codTienda": "stra",
+        "categorias": [
+            {
+                "genero": "femenino",
+                "ropa": "ropaM-stra.jpg",
+                "zapatos": "zapatosM-stra.jpg",
+                "accesorios": "accesoriosM-stra.jpg"
+            },
+            {
+                "genero": "masculino",
+                "portada": "portadaH-zara.webp",
+                "ropa": "ropaH-zara.jpg",
+                "zapatos": "zapatosH-zara.jpg",
+                "accesorios": "accesoriosH-zara.jpg"
+            }
+
+        ]
+    },
+    {
+        "codTienda": "zara",
+        "categorias":[
+            {
+                "genero": "femenino",
+                "portada": "portadaM-zara.jpg",
+                "ropa": "ropaM-zara.jpg",
+                "zapatos": "zapatosM-zara.jpg",
+                "accesorios": "accesoriosM-zara.jpg"
+            },
+            {
+                "genero": "masculino",
+                "portada": "portadaH-zara.webp",
+                "ropa": "ropaH-zara.jpg",
+                "zapatos": "zapatosH-zara.jpg",
+                "accesorios": "accesoriosH-zara.jpg"
+            }
+        ]
+    },
+    {
+        "codTienda": "bershka",
+        "categorias": [
+            {
+                "genero": "femenino",
+                "portada": "portadaM-bershka.jpg",
+                "ropa": "ropaM-bershka.webp",
+                "zapatos": "zapatosM-bershka.webp",
+                "accesorios": "accesoriosM-bershka.webp"
+            },
+            {
+                "genero": "masculino",
+                "portada": "portadaH-bershka.webp",
+                "ropa": "ropaH-bershka.webp",
+                "zapatos": "zapatosH-bershka.webp",
+                "accesorios": "accesoriosH-bershka.jpg"
+            }
+        ]
+    }
+]

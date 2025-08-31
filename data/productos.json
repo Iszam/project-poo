@@ -1,0 +1,666 @@
+[
+    {
+        "codRef": "pbfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm1.jpg",
+        "descripcion": "Vestido largo tie-dye",
+        "precio": 975
+    },
+    {
+        "codRef": "pbfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm2.jpg",
+        "descripcion": "Jeans cargo tiro alto",
+        "precio": 1995
+    },
+    {
+        "codRef": "pbfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm3.jpg",
+        "descripcion": "Blazer básica",
+        "precio": 1195
+    },
+    {
+        "codRef": "pbfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm4.jpg",
+        "descripcion": "Camiseta con print esotérico",
+        "precio": 975
+    }, 
+    {
+        "codRef": "pbfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm1.jpg", 
+        "descripcion": "Alpargata cuña lazada",
+        "precio": 1295
+    },
+    {
+        "codRef": "pbfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm2.jpg", 
+        "descripcion": "Zapatillas retro contraste",
+        "precio": 975
+    },
+    {
+        "codRef": "pbfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm3.jpg", 
+        "descripcion": "Alpargata combinada",
+        "precio": 1195
+    }, 
+    {
+        "codRef": "pbfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm4.jpg", 
+        "descripcion": "Zapatillas deportivas volumen",
+        "precio": 1295
+    },
+    {
+        "codRef": "pbfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am1.jpg", 
+        "descripcion": "Pack 2 collares piedra y espiral",
+        "precio": 295
+    },
+    {
+        "codRef": "pbfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am2.jpg", 
+        "descripcion": "Gafas de sol rectangulares",
+        "precio": 375
+    },
+    {
+        "codRef": "pbfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am3.jpg", 
+        "descripcion": "Funda iPhone flores",
+        "precio": 225
+    },
+    {
+        "codRef": "pbfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am4.jpg", 
+        "descripcion": "Gorro Beanie",
+        "precio": 225
+    },
+    {
+        "codRef": "pbmr",
+        "genero": "M",
+        "categoria": "ropa",
+        "imagen": "rh1.webp", 
+        "descripcion": "Playera abstracta",
+        "precio": 665
+    },
+    {
+        "codRef": "pbmr",
+        "genero": "M",
+        "categoria": "ropa",
+        "imagen": "rh4.webp", 
+        "descripcion": "Pantalones beige",
+        "precio": 630
+    },
+    {
+        "codRef": "pbmr",
+        "genero": "M",
+        "categoria": "ropa",
+        "imagen": "rh8.webp", 
+        "descripcion": "Chaqueta beige",
+        "precio": 500
+    },
+    {
+        "codRef": "pbmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh4.webp", 
+        "descripcion": "Tenis deportivos",
+        "precio": 890
+    },
+    {
+        "codRef": "pbmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh5.webp", 
+        "descripcion": "Mocasines",
+        "precio": 550
+    },
+    {
+        "codRef": "pbmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh6.webp", 
+        "descripcion": "Chanclas pokemon",
+        "precio": 890
+    },
+    {
+        "codRef": "pbmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh1.webp", 
+        "descripcion": "Zapatillas blancas basic",
+        "precio": 590
+    },
+    {
+        "codRef": "pbma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah5.webp", 
+        "descripcion": "sombrero",
+        "precio": 380
+    },
+    {
+        "codRef": "pbma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah3.webp", 
+        "descripcion": "Set de 10 pulseras cruz",
+        "precio": 300
+    },
+    {
+        "codRef": "pbma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah7.webp", 
+        "descripcion": "Calcetas con bordado",
+        "precio": 250
+    },
+    {
+        "codRef": "pbma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah4.webp", 
+        "descripcion": "Gorra motor sport",
+        "precio": 280
+    },
+    {
+        "codRef": "sfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm8.jpg",
+        "descripcion": "Crop-top",
+        "precio": 380
+    },
+    {
+        "codRef": "sfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm3.jpg",
+        "descripcion": "Blazer largo",
+        "precio": 380
+    },
+    {
+        "codRef": "sfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm2.jpg",
+        "descripcion": "Vestido strech con corte",
+        "precio": 500
+    },
+    {
+        "codRef": "sfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm6.jpg",
+        "descripcion": "Skinny jeans",
+        "precio": 800
+    },
+    {
+        "codRef": "sfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm8.jpg",
+        "descripcion": "Botas cow girl",
+        "precio": 1300
+    },
+    {
+        "codRef": "sfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm1.jpg",
+        "descripcion": "Sandalias alpargata",
+        "precio": 490
+    },
+    {
+        "codRef": "sfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm2.jpg",
+        "descripcion": "Tenis retro",
+        "precio": 700
+    },
+    {
+        "codRef": "sfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm6.jpg",
+        "descripcion": "Sandalias de verano",
+        "precio": 1300
+    },
+    {
+        "codRef": "sfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am2.jpg",
+        "descripcion": "Lentes de sol",
+        "precio": 300
+    },
+    {
+        "codRef": "sfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am6.jpg",
+        "descripcion": "Pendientes de oro",
+        "precio": 450
+    },
+    {
+        "codRef": "sfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am8.jpg",
+        "descripcion": "Brazaletes (set)",
+        "precio": 300
+    },
+    {
+        "codRef": "sfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am2.jpg",
+        "descripcion": "Collar doble",
+        "precio": 250
+    },
+    {
+        "codRef": "zfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm5.jpg",
+        "descripcion": "Vestido corto corset",
+        "precio": 975
+    },
+    {
+        "codRef": "zfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm4.jpg",
+        "descripcion": "Camiseta abstract dising",
+        "precio": 230
+    },
+    {
+        "codRef": "zfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm8.jpg",
+        "descripcion": "Top tirantes print",
+        "precio": 300
+    },
+    {
+        "codRef": "zfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm5.jpg",
+        "descripcion": "bermudas",
+        "precio": 560
+    },
+    {
+        "codRef": "zfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm5.jpg",
+        "descripcion": "Sandalias tacón cuadrado",
+        "precio": 1200
+    },
+    {
+        "codRef": "zfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm7.jpg",
+        "descripcion": "Mocasines",
+        "precio": 880
+    },
+    {
+        "codRef": "zfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm6.jpg",
+        "descripcion": "Sandalias de verano",
+        "precio": 450
+    },
+    {
+        "codRef": "zfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm8.jpg",
+        "descripcion": "Botas vaqueras",
+        "precio": 1000
+    },
+    {
+        "codRef": "zfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am7.jpg",
+        "descripcion": "Bolsa de verano",
+        "precio": 400
+    },
+    {
+        "codRef": "zfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am4.jpg",
+        "descripcion": "Gorro Beinie",
+        "precio": 400
+    },
+    {
+        "codRef": "zfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am5.jpg",
+        "descripcion": "Collar de perlas",
+        "precio": 490
+    },
+    {
+        "codRef": "zfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am3.jpg",
+        "descripcion": "Funda de flores",
+        "precio": 390
+    },
+    {
+        "codRef": "zmr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rh5.jpg",
+        "descripcion": "pantalones para vestir",
+        "precio": 500
+    },
+    {
+        "codRef": "zmr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rh7.jpg",
+        "descripcion": "chaleco",
+        "precio": 440
+    },
+    {
+        "codRef": "zmr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rh6.jpg",
+        "descripcion": "camisa a rayas",
+        "precio": 450
+    },
+    {
+        "codRef": "zmr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rh8.jpg",
+        "descripcion": "chaqueta beige",
+        "precio": 500
+    },
+    {
+        "codRef": "zmz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zh2.webp",
+        "descripcion": "Zapatillas casual ",
+        "precio": 1180
+    },
+    {
+        "codRef": "zmz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zh7.webp",
+        "descripcion": "Chanclas pokemon",
+        "precio": 400
+    },
+    {
+        "codRef": "zmz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zh8.webp",
+        "descripcion": "Zapatillas casual retro",
+        "precio": 1400
+    },
+    {
+        "codRef": "zmz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zh4.webp",
+        "descripcion": "Zapatillas deportivas",
+        "precio": 1200
+    },
+    {
+        "codRef": "zma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah2.webp",
+        "descripcion": "Set de 10 pendientes",
+        "precio": 300
+    },
+    {
+        "codRef": "zma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah1.webp",
+        "descripcion": "Set de 3 anillos",
+        "precio": 400
+    },
+    {
+        "codRef": "zma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah8.webp",
+        "descripcion": "Calcetas estampadas",
+        "precio": 400
+    },
+    {
+        "codRef": "zma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah6.webp",
+        "descripcion": "Gorro Beinie",
+        "precio": 260
+    },
+    {
+        "codRef": "bfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm7.jpg",
+        "descripcion": "Jeans short",
+        "precio": 400
+    },
+    {
+        "codRef": "bfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm11.jpg",
+        "descripcion": "Jeans vaqueros",
+        "precio": 800
+    },
+    {
+        "codRef": "bfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm5.jpg",
+        "descripcion": "Vestido escote V",
+        "precio": 960
+    },
+    {
+        "codRef": "bfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm4.jpg",
+        "descripcion": "Camiseta The Cosmos",
+        "precio": 290
+    },
+    {
+        "codRef": "bfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm7.jpg",
+        "descripcion": "Mocasines",
+        "precio": 700
+    },
+    {
+        "codRef": "bfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm5.jpg",
+        "descripcion": "Sandalias fashion",
+        "precio": 900
+    },
+    {
+        "codRef": "bfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm4.jpg",
+        "descripcion": "Tenis deportivos",
+        "precio": 680
+    },    
+    {
+        "codRef": "bfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm3.jpg",
+        "descripcion": "Alpargatas de verano",
+        "precio": 540
+    },
+    {
+        "codRef": "bfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am7.jpg",
+        "descripcion": "Bolso de tela",
+        "precio": 440
+    },
+    {
+        "codRef": "bfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am4.jpg",
+        "descripcion": "Gorro Beanie",
+        "precio": 290
+    },
+    {
+        "codRef": "bfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am1.jpg",
+        "descripcion": "Collar de espiral",
+        "precio": 230
+    },
+    {
+        "codRef": "bfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am2.jpg",
+        "descripcion": "Letes rectangulares",
+        "precio": 440
+    },
+    {
+        "codRef": "bmr",
+        "genero": "M",
+        "categoria": "ropa",
+        "imagen": "rh2.jpg",
+        "descripcion": "Camisa casual",
+        "precio": 560
+    },
+    {
+        "codRef": "bmr",
+        "genero": "M",
+        "categoria": "ropa",
+        "imagen": "rh5.jpg",
+        "descripcion": "Pantalones capri",
+        "precio": 890
+    },
+    {
+        "codRef": "bmr",
+        "genero": "M",
+        "categoria": "ropa",
+        "imagen": "rh6.jpg",
+        "descripcion": "Pantalones loose",
+        "precio": 780
+    },
+    {
+        "codRef": "bmr",
+        "genero": "M",
+        "categoria": "ropa",
+        "imagen": "rh1.jpg",
+        "descripcion": "Playera",
+        "precio": 500
+    },
+    {
+        "codRef": "bmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh1.jpg",
+        "descripcion": "Zapatillas stansmith",
+        "precio": 1200
+    },
+    {
+        "codRef": "bmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh8.jpg",
+        "descripcion": "Sandalias de correa",
+        "precio": 400
+    },
+    {
+        "codRef": "bmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh1.jpg",
+        "descripcion": "Tenis deportivos",
+        "precio": 1180
+    },
+    {
+        "codRef": "bmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh5.jpg",
+        "descripcion": "Mocasines",
+        "precio": 990
+    },
+    {
+        "codRef": "bma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah8.jpg",
+        "descripcion": "Calcetines altos",
+        "precio": 400
+    },
+    {
+        "codRef": "bma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah1.jpg",
+        "descripcion": "Anillos de plata",
+        "precio": 500
+    },
+    {
+        "codRef": "bma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah4.jpg",
+        "descripcion": "Gorra vintage",
+        "precio": 360
+    },
+    {
+        "codRef": "bma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah3.jpg",
+        "descripcion": "Brazaletes cruz",
+        "precio": 240
+    }  
+]

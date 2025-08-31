@@ -1,0 +1,186 @@
+[
+    {
+        "codProducto": "pbfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm1.jpg",
+        "nombreProducto": "Vestido largo tie-dye",
+        "precio": 975
+    },
+    {
+        "codProducto": "pbfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm2.jpg",
+        "nombreProducto": "Jeans cargo tiro alto",
+        "precio": 1995
+    },
+    {
+        "codProducto": "pbfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm3.jpg",
+        "nombreProducto": "Blazer básica",
+        "precio": 1195
+    },
+    {
+        "codProducto": "pbfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm4.jpg",
+        "nombreProducto": "Camiseta con print esotérico",
+        "precio": 975
+    }, 
+    {
+        "codProducto": "pbfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm1.jpg", 
+        "nombreProducto": "Alpargata cuña lazada",
+        "precio": 1295
+    },
+    {
+        "codProducto": "pbfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm2.jpg", 
+        "nombreProducto": "Zapatillas retro contraste",
+        "precio": 975
+    },
+    {
+        "codProducto": "pbfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm3.jpg", 
+        "nombreProducto": "Alpargata combinada",
+        "precio": 1195
+    }, 
+    {
+        "codProducto": "pbfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm4.jpg", 
+        "nombreProducto": "Zapatillas deportivas volumen",
+        "precio": 1295
+    },
+    {
+        "codProducto": "pbfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am1.jpg", 
+        "nombreProducto": "Pack 2 collares piedra y espiral",
+        "precio": 295
+    },
+    {
+        "codProducto": "pbfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am2.jpg", 
+        "nombreProducto": "Gafas de sol rectangulares",
+        "precio": 375
+    },
+    {
+        "codProducto": "pbfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am3.jpg", 
+        "nombreProducto": "Funda iPhone flores",
+        "precio": 225
+    },
+    {
+        "codProducto": "pbfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am4.jpg", 
+        "nombreProducto": "Gorro Beanie",
+        "precio": 225
+    },
+    {
+        "codProducto": "pbmr",
+        "genero": "M",
+        "categoria": "ropa",
+        "imagen": "rh1.webp", 
+        "nombreProducto": "Playera abstracta",
+        "precio": 665
+    },
+    {
+        "codProducto": "pbmr",
+        "genero": "M",
+        "categoria": "ropa",
+        "imagen": "rh4.webp", 
+        "nombreProducto": "Pantalones beige",
+        "precio": 630
+    },
+    {
+        "codProducto": "pbmr",
+        "genero": "M",
+        "categoria": "ropa",
+        "imagen": "rh8.webp", 
+        "nombreProducto": "Chaqueta beige",
+        "precio": 500
+    },
+    {
+        "codProducto": "pbmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh4.webp", 
+        "nombreProducto": "Tenis deportivos",
+        "precio": 890
+    },
+    {
+        "codProducto": "pbmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh5.webp", 
+        "nombreProducto": "Mocasines",
+        "precio": 550
+    },
+    {
+        "codProducto": "pbmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh6.webp", 
+        "nombreProducto": "Chanclas pokemon",
+        "precio": 890
+    },
+    {
+        "codProducto": "pbmz",
+        "genero": "M",
+        "categoria": "zapatos",
+        "imagen": "zh1.webp", 
+        "nombreProducto": "Zapatillas blancas basic",
+        "precio": 590
+    },
+    {
+        "codProducto": "pbma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah5.webp", 
+        "nombreProducto": "sombrero",
+        "precio": 380
+    },
+    {
+        "codProducto": "pbma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah3.webp", 
+        "nombreProducto": "Set de 10 pulseras cruz",
+        "precio": 300
+    },
+    {
+        "codProducto": "pbma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah7.webp", 
+        "nombreProducto": "Calcetas con bordado",
+        "precio": 250
+    },
+    {
+        "codProducto": "pbma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah4.webp", 
+        "nombreProducto": "Gorra motor sport",
+        "precio": 280
+    }
+]

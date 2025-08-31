@@ -1,0 +1,98 @@
+[
+    {
+        "codProducto": "sfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm8.jpg",
+        "nombreProducto": "Crop-top",
+        "precio": 380
+    },
+    {
+        "codProducto": "sfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm3.jpg",
+        "nombreProducto": "Blazer largo",
+        "precio": 380
+    },
+    {
+        "codProducto": "sfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm2.jpg",
+        "nombreProducto": "Vestido strech con corte",
+        "precio": 500
+    },
+    {
+        "codProducto": "sfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm6.jpg",
+        "nombreProducto": "Skinny jeans",
+        "precio": 800
+    },
+    {
+        "codProducto": "sfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm8.jpg",
+        "nombreProducto": "Botas cow girl",
+        "precio": 1300
+    },
+    {
+        "codProducto": "sfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm1.jpg",
+        "nombreProducto": "Sandalias alpargata",
+        "precio": 490
+    },
+    {
+        "codProducto": "sfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm2.jpg",
+        "nombreProducto": "Tenis retro",
+        "precio": 700
+    },
+    {
+        "codProducto": "sfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm6.jpg",
+        "nombreProducto": "Sandalias de verano",
+        "precio": 1300
+    },
+    {
+        "codProducto": "sfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am2.jpg",
+        "nombreProducto": "Lentes de sol",
+        "precio": 300
+    },
+    {
+        "codProducto": "sfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am6.jpg",
+        "nombreProducto": "Pendientes de oro",
+        "precio": 450
+    },
+    {
+        "codProducto": "sfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am8.jpg",
+        "nombreProducto": "Brazaletes (set)",
+        "precio": 300
+    },
+    {
+        "codProducto": "sfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am2.jpg",
+        "nombreProducto": "Collar doble",
+        "precio": 250
+    }
+]

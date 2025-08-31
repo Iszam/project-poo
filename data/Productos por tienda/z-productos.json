@@ -1,0 +1,194 @@
+[
+    {
+        "codProducto": "zfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm5.jpg",
+        "nombreProducto": "Vestido corto corset",
+        "precio": 975
+    },
+    {
+        "codProducto": "zfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm4.jpg",
+        "nombreProducto": "Camiseta abstract dising",
+        "precio": 230
+    },
+    {
+        "codProducto": "zfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm8.jpg",
+        "nombreProducto": "Top tirantes print",
+        "precio": 300
+    },
+    {
+        "codProducto": "zfr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rm5.jpg",
+        "nombreProducto": "bermudas",
+        "precio": 560
+    },
+    {
+        "codProducto": "zfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm5.jpg",
+        "nombreProducto": "Sandalias tacón cuadrado",
+        "precio": 1200
+    },
+    {
+        "codProducto": "zfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm7.jpg",
+        "nombreProducto": "Mocasines",
+        "precio": 880
+    },
+    {
+        "codProducto": "zfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm6.jpg",
+        "nombreProducto": "Sandalias de verano",
+        "precio": 450
+    },
+    {
+        "codProducto": "zfz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zm8.jpg",
+        "nombreProducto": "Botas vaqueras",
+        "precio": 1000
+    },
+    {
+        "codProducto": "zfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am7.jpg",
+        "nombreProducto": "Bolsa de verano",
+        "precio": 400
+    },
+    {
+        "codProducto": "zfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am4.jpg",
+        "nombreProducto": "Gorro Beinie",
+        "precio": 400
+    },
+    {
+        "codProducto": "zfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am5.jpg",
+        "nombreProducto": "Collar de perlas",
+        "precio": 490
+    },
+    {
+        "codProducto": "zfa",
+        "genero": "F",
+        "categoria": "accesorios",
+        "imagen": "am3.jpg",
+        "nombreProducto": "Funda de flores",
+        "precio": 390
+    },
+    {
+        "codProducto": "zmr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rh5.jpg",
+        "nombreProducto": "pantalones para vestir",
+        "precio": 500
+    },
+    {
+        "codProducto": "zmr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rh7.jpg",
+        "nombreProducto": "chaleco",
+        "precio": 440
+    },
+    {
+        "codProducto": "zmr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rh6.jpg",
+        "nombreProducto": "camisa a rayas",
+        "precio": 450
+    },
+    {
+        "codProducto": "zmr",
+        "genero": "F",
+        "categoria": "ropa",
+        "imagen": "rh8.jpg",
+        "nombreProducto": "chaqueta beige",
+        "precio": 500
+    },
+    {
+        "codProducto": "zmz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zh2.webp",
+        "nombreProducto": "Zapatillas casual ",
+        "precio": 1180
+    },
+    {
+        "codProducto": "zmz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zh7.webp",
+        "nombreProducto": "Chanclas pokemon",
+        "precio": 400
+    },
+    {
+        "codProducto": "zmz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zh8.webp",
+        "nombreProducto": "Zapatillas casual retro",
+        "precio": 1400
+    },
+    {
+        "codProducto": "zmz",
+        "genero": "F",
+        "categoria": "zapatos",
+        "imagen": "zh4.webp",
+        "nombreProducto": "Zapatillas deportivas",
+        "precio": 1200
+    },
+    {
+        "codProducto": "zma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah2.webp",
+        "nombreProducto": "Set de 10 pendientes",
+        "precio": 300
+    },
+    {
+        "codProducto": "zma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah1.webp",
+        "nombreProducto": "Set de 3 anillos",
+        "precio": 400
+    },
+    {
+        "codProducto": "zma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah8.webp",
+        "nombreProducto": "Calcetas estampadas",
+        "precio": 400
+    },
+    {
+        "codProducto": "zma",
+        "genero": "M",
+        "categoria": "accesorios",
+        "imagen": "ah6.webp",
+        "nombreProducto": "Gorro Beinie",
+        "precio": 260
+    }
+]
